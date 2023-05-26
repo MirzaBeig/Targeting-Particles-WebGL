@@ -9,17 +9,19 @@ Unity WebGL demo of targeting particles, inspired by [this Blender (Geometry Nod
 Focus (click in the game area) to activate input for moving the target.  
 The emitter can be controlled without focus.
 
-- **'R' to reset**.
-- **'Esc' to release cursor**.
+*   **'R' to reset**.
+*   **'Esc' to release cursor**.
 
 ### Target Controls
 
--   **Mouse XY:** move on XY axis (left/right and top/bottom).
--   **'W', 'A':** move on Z axis (forward/backward).
+*   **Mouse XY:** move on XY axis (left/right and top/bottom).
+*   **W, A:** move on Z axis (forward/backward).
 
 ### Emitter Controls
 
--   **'Q', 'E':** decrease/increase trail noise.       
--   **'A', 'D':** decrease/increase trail width.
-
--   **Mouse Scroll**: Particle rate over time (emission).  
+*   **Q, E:** decrease/increase trail noise.
+*   **A, D:** decrease/increase trail width.  
+     
+*   **F, G, and H:** emit 1, 5, and 10 particles.  
+     
+*   **Mouse Scroll**: Particle rate over time (emission).
