@@ -14,7 +14,7 @@ The emitter can be controlled without focus.
 
 ### Target Controls
 
-*   **Mouse XY:** move on XY axis (left/right and top/bottom).
+*   **Mouse/Touch XY:** move on XY axis (left/right and top/bottom).
 *   **W, A:** move on Z axis (forward/backward).
 
 ### Emitter Controls
