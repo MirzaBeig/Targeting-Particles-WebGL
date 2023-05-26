@@ -14,12 +14,12 @@ The emitter can be controlled without focus.
 
 ### Target Controls
 
-*   **Mouse:** move on _XY axis_ (left/right and top/bottom).
-*   **'W', 'A':** move on _Z axis_ (forward/backward).
+-   **Mouse XY:** move on XY axis (left/right and top/bottom).
+-   **'W', 'A':** move on Z axis (forward/backward).
 
 ### Emitter Controls
 
-*   **'Q', 'E':** decrease/increase _emission_.  
-     
-*   **'1', '2':** decrease/increase particle _trail noise_.
-*   **'3, '4':** decrease/increase particle _trail width_.
+-   **'Q', 'E':** decrease/increase trail noise.       
+-   **'A', 'D':** decrease/increase trail width.
+
+-   **Mouse Scroll**: Particle rate over time (emission).  
