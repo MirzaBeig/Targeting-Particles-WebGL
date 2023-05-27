@@ -24,4 +24,6 @@ The emitter can be controlled without focus.
      
 *   **F, G, and H:** emit 1, 5, and 10 particles.  
      
+*   **L-Shift:** toggle ultra slow-motion.  
+     
 *   **Mouse Scroll**: Particle rate over time (emission).
