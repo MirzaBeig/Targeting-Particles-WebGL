@@ -4,7 +4,8 @@ Unity WebGL demo of targeting particles, inspired by [this Blender (Geometry Nod
 
 ## \> [Realtime/Live WebGL](https://mirzabeig.github.io/Targeting-Particles-WebGL/)
 
-**Note:** I'm actively working on this, so you may see things change over time. I've upped the lighting fidelity, so the cube mesh itself may not render if visiting from mobile- but everything else should be fine.
+- I'm actively working on this. You may see things change over time!
+- The cube mesh itself may not render if visiting from mobile- but everything else should be fine.
 
 ## Controls
 
